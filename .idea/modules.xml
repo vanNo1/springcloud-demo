@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/apollo/apollo.iml" filepath="$PROJECT_DIR$/apollo/apollo.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-clinet/eureka-clinet.iml" filepath="$PROJECT_DIR$/eureka-clinet/eureka-clinet.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/feign-demo/feign-demo.iml" filepath="$PROJECT_DIR$/feign-demo/feign-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway/gateway.iml" filepath="$PROJECT_DIR$/gateway/gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/hystrix-demo/hystrix-demo.iml" filepath="$PROJECT_DIR$/hystrix-demo/hystrix-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-frame.iml" filepath="$PROJECT_DIR$/spring-cloud-frame.iml" />
     </modules>

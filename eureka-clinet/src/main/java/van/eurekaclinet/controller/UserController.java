@@ -16,7 +16,7 @@ public class UserController {
         return "van";
     }
 
-    @RequestMapping("getSuccess")
+    @RequestMapping("/getSuccess")
     public String getSuccess() {
         return "van";
     }
